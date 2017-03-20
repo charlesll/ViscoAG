@@ -10,7 +10,9 @@ The software is written in the Julia programming language, see http://julialang.
 
 Details are provided in the article:
 
-Le Losq C., Neuville D. R. (2017) Molecular structure, configurational entropy and viscosity of silicate melts: link through the Adam and Gibbs theory of viscous flow. Journal of Non Cristalline Solids XX:XXX-XXX.
+Le Losq C., Neuville D. R. (2017) Molecular structure, configurational entropy and viscosity of silicate melts: link through the Adam and Gibbs theory of viscous flow. Journal of Non Cristalline Solids 463:175-188.
+
+Until the *th of May, the article is available for free at: https://authors.elsevier.com/a/1UkW854fAxj9K
 
 # Installation
 
